@@ -13,8 +13,8 @@ index = {"load_attributes": "00_plotped.ipynb",
 
 modules = ["plot.py"]
 
-doc_url = "https://changebio.github.io/graphped/"
+doc_url = "https://changebio.github.io/GraphPed/"
 
-git_url = "https://github.com/changebio/graphped/tree/main/"
+git_url = "https://github.com/changebio/GraphPed/tree/main/"
 
 def custom_doc_links(name): return None
